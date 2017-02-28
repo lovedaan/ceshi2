@@ -4,7 +4,7 @@ module.exports = {
   entry: './src/main.js',
   output: {
     path: path.resolve(__dirname, './dist'),
-    publicPath: 'http://localhost:8000/dist/',
+    publicPath: 'https://lovedaan.github.io/ceshi2/dist/',
     filename: 'build.js'
   },
   module: {
